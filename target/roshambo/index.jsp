@@ -8,10 +8,10 @@
 
    <body>
 
-      Which one will it be for you today?<br/>
-      <a href="#" onclick="playRoshambo('rock')"> rock </a>
-      <a href="#" onclick="playRoshambo('paper')"> paper </a>
-      <a href="#" onclick="playRoshambo('sci')"> scissors </a>
+      Which one will it today?<br/>
+      <a href="#" onclick="playRoshambo('rock')"> roc </a>
+      <a href="#" onclick="playRoshambo('paper')"> papr </a>
+      <a href="#" onclick="playRoshambo('sci')"> scisors </a>
 
       <br/>
       <div id="results"></div>
